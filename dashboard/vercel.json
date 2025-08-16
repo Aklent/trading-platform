@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "src": "/login", "dest": "/" },
+    { "src": "/register", "dest": "/" },
+    { "src": "/", "dest": "/" },
+    { "src": "/orders", "dest": "/" },
+    { "src": "/holdings", "dest": "/" },
+    { "src": "/positions", "dest": "/" },
+    { "src": "/funds", "dest": "/" },
+    { "src": "/apps", "dest": "/" }
+  ]
+}
